@@ -8,7 +8,7 @@ Bakery website lets users inform themself about bakery's offers, as well as opti
 
 - HTML 5
 - CSS 3
-- Java script
+- Java Script
 
 *View and interact with the project [here](https://maarbay.github.io/project-bakery-website/index.html)*
 
