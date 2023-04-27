@@ -8,13 +8,13 @@ Bakery website lets users inform themself about bakery's offers, as well as opti
 
 - HTML 5
 - CSS 3
-- Java Script
+- JavaScript
 
 *View and interact with the project [here](https://maarbay.github.io/project-bakery-website/index.html)*
 
 ![Image](Bakery1.png)
 
 
-This application is built to showcase my understanding of Java Script, alongside the ability to implement CSS and HTML. 
+This application is built to showcase my understanding of JavaScript, alongside the ability to implement CSS and HTML. 
 
 
